@@ -123,4 +123,18 @@ This frontend expects a RESTful API with the following routes:
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Fakhri Anabusi**
+
+- GitHub: [@fakhrianabusi](https://github.com/fakhrianabusi)
+
+---
+
+## 📞 Support
+
+If you have any questions or need help with setup, please open an issue on GitHub.
