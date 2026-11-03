@@ -48,7 +48,7 @@ npm -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Book_and_expenses_tracker_frontend.git
+git clone https://github.com/fakhrianabusi/Book_and_expenses_tracker_frontend.git
 cd Book_and_expenses_tracker_frontend
 ```
 
